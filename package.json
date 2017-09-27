@@ -2,9 +2,9 @@
   "name": "rest",
   "version": "0.0.1",
   "description": "",
-  "main": "service.js",
+  "main": "api/service.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon api/service.js"
   },
   "author": "",
   "license": "ISC",
